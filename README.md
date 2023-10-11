@@ -24,5 +24,5 @@ No installation required. Just unzip the package and open “DIACalc.exe” to s
 1.	Select “input.txt” as the input data, and select “Homosapiens.fasta” as the protein database. Input “IA_acid” as the target modification (default). Click “calc” button.
 2.	After about 2 min, a file named “input_rep.txt” will be output. It should be the same as “output.txt” provided by us.
 
-#Contact
+# Contact
 Free for academic use. Please contact chuwang@pku.edu.cn for commercial use.
